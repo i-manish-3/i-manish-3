@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-manish-3" alt="i-manish-3" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack web development**
+- 🌱 I’m currently learning **Full stack android development**
 
 - 📫 How to reach me **official.iamanish@gmail.com**
 
