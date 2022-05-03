@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">Currently learning programming</h3>
+<h3 align="center">Passionate about learning new technology</h3>
 
-- 🌱 I’m currently learning **Full stack web development**
+- 🌱 I’m currently learning **Full stack android development**
 
 - 📫 How to reach me **official.iamanish@gmail.com**
 
