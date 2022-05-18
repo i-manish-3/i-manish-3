@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **official.iamanish@gmail.com**
 
-- ⚡ Fun fact **I think I am not funny.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/i_manish_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_manish_3" height="30" width="40" /></a>
