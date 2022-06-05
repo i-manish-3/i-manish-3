@@ -27,3 +27,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-manish-3&show_icons=true&locale=en&layout=compact" alt="i-manish-3" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-manish-3&show_icons=true&locale=en" alt="i-manish-3" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-manish-3&" alt="i-manish-3" /></p>
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=i-manish-3&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=i-manish-3&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-manish-3&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
