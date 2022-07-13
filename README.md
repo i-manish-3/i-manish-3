@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manish </h1>
+
 
 <h3 align="center">Passionate about learning new technologies!!</h3>
 
