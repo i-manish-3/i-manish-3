@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-manish-3&label=Profile%20views&color=0e75b6&style=flat" alt="i-manish-3" /> </p>
 
-- 🔭 I’m currently working on **an android project**
+- 🔭 I’m currently working on **a full stack project**
 
-- 🌱 I’m currently learning **Full stack android development**
+- 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **Android and DSA**
+- 💬 Ask me about **Full Stack and Devops**
 
-- 📫 How to reach me **official.iamanish@gmail.com**
+- 📫 How to reach me **developer.iamanish@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
