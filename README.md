@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [https://constantspace.site/](https://constantspace.site/)
+- 👨‍💻 All of my projects are available at [https://www.devmanish.tech/])
 
 - 💬 Ask me about **Full Stack and Devops**
 
